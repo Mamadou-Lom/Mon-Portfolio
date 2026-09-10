@@ -266,7 +266,7 @@ a { color: inherit; text-decoration: none; }
   color: var(--text);
   margin-bottom: 24px;
 }
-.hero-title span { color: var(--accent); }
+.hero-title span { color: var(--text); }
 .hero-sub {
   font-size: 18px;
   color: var(--text-muted);
